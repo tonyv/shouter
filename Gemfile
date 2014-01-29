@@ -5,6 +5,7 @@ gem 'sqlite3'
 gem 'strong_parameters', '0.2.0'
 gem 'monban', '0.0.6'
 gem 'sass-rails',   '~> 3.2.3'
+gem 'paperclip', '3.4.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
